@@ -53,7 +53,7 @@ y = True
 nilai = x or y
 print(x, "or", y, "=", nilai)
 
-#(jika ada salah, maka hasilnya salah)
+#(akan true jika salah satu true,sisanya false)
 print("======== XOR ========")
 x = False
 y = False
